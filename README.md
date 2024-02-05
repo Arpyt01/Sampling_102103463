@@ -38,6 +38,6 @@ Random Forest Classifier showed best accuracy for all the sampling techniques.
 Stratified Sampling Technique is the best technique in this case but only marginally
 
 ## Submission by :
-Name : Sidharth Bahl
+Name : Arpit Dubey
 <br>
-Roll No : 102017016
+Roll No : 102103463
